@@ -113,6 +113,7 @@ export default function Resume() {
           <div className="flex flex-wrap justify-center gap-3">
             <Badge className="bg-blue-100 text-blue-800 text-sm px-3 py-1">Chattahoochee HS 2026</Badge>
             <Badge className="bg-green-100 text-green-800 text-sm px-3 py-1">Founder @ OmniTech Careers</Badge>
+            <Badge className="bg-red-100 text-red-800 text-sm px-3 py-1">AI4OPT Lead Mentor</Badge>
             <Badge className="bg-purple-100 text-purple-800 text-sm px-3 py-1">HUVTSP '25</Badge>
             <Badge className="bg-amber-100 text-amber-800 text-sm px-3 py-1">Alpharetta, GA</Badge>
           </div>
@@ -125,10 +126,10 @@ export default function Resume() {
           </CardHeader>
           <CardContent className="p-8">
             <p className="text-gray-700 leading-relaxed text-lg">
-              High school student at Chattahoochee High School with a passion for computer science, artificial intelligence, and public policy. 
+              Student at Chattahoochee High School with a passion for computer science, artificial intelligence, and public policy. 
               Founder of OmniTech Careers, empowering 6,000+ students worldwide in tech career readiness. Experienced in AI research, cybersecurity, 
               data science, and frontend development through internships at Harvard, Leadership Initiatives, and various tech organizations. 
-              Also an Indian classical singer for 11 years and competitive swimmer, bringing discipline and resilience to all endeavors.
+              Also an Indian classical singer for 13 years and competitive swimmer, bringing discipline and resilience to all endeavors.
             </p>
           </CardContent>
         </Card>
@@ -258,7 +259,7 @@ export default function Resume() {
             <div className="grid md:grid-cols-2 gap-6">
               <div className="p-4 bg-white rounded-lg border-2 border-blue-100">
                 <h4 className="font-semibold text-lg text-gray-900 mb-2">🎵 Indian Classical Music</h4>
-                <p className="text-gray-700">11 years of training in Indian classical singing, instilling discipline, focus, and cultural connection</p>
+                <p className="text-gray-700">13 years of training in Indian classical singing, instilling discipline, focus, and cultural connection</p>
               </div>
               <div className="p-4 bg-white rounded-lg border-2 border-blue-100">
                 <h4 className="font-semibold text-lg text-gray-900 mb-2">🏊 Competitive Swimming</h4>

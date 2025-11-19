@@ -40,7 +40,7 @@ export default function Home() {
                   Through leadership roles in organizations like OmniTech Careers (empowering 6,000+ students worldwide) and Model UN, I've developed strong communication, problem-solving, and organizational skills that I aim to apply toward shaping the future of technology and policy.
                 </p>
                 <p className="text-lg leading-relaxed">
-                  <em className="text-gray-700">Beyond tech, I've been an Indian classical singer for 11 years and compete in swimming on both my club and varsity teams. These experiences have instilled discipline, focus, and resilience that complement my technical pursuits.</em>
+                  <em className="text-gray-700">Beyond tech, I've been an Indian classical singer for 13 years and compete in swimming on both my club and varsity teams. These experiences have instilled discipline, focus, and resilience that complement my technical pursuits.</em>
                 </p>
               </div>
 
