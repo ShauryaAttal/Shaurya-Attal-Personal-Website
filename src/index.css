@@ -1,0 +1,12 @@
+/* src/index.css */
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  background-color: #f8fafc; /* slate-50-ish */
+  color: #0f172a; /* slate-900-ish */
+}
