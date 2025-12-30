@@ -276,6 +276,11 @@ export default function Resume() {
             <a href="/Shaurya_Attal_Resume.pdf" download>Download Resume PDF</a>
           </Button>
           <p className="text-sm text-gray-500 mt-4">Click to download a PDF version of this resume</p>
+          <Button className="bg-blue-900 hover:bg-blue-800 px-8 py-6 text-lg rounded-xl shadow-lg text-white">
+            <Download className="w-5 h-5 mr-2" />
+            <a href="/Digital_Portfolio_Reflection.pdf" download>Download Reflection PDF</a>
+          </Button>
+          <p className="text-sm text-gray-500 mt-4">Click to download a my reflection on this project.</p>
         </div>
       </div>
     </div>
